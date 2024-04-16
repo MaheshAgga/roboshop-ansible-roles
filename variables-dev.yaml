@@ -1,0 +1,13 @@
+MONGODB_HOST: mongodb-dev.roboshopin.site  # submit your host
+REDIS_HOST: redis-dev.roboshopin.site 
+MYSQL_HOST: mysql-dev.roboshopin.site
+RABBITMQ_HOST: rabbitmq-dev.roboshopin.site 
+CATALOGUE_HOST: catalogue.app-dev.roboshopin.site
+USER_HOST: user.app-dev.roboshopin.site
+CART_HOST: cart.app-dev.roboshopin.site 
+SHIPPING_HOST: shipping.app-dev.roboshopin.site 
+PAYMENT_HOST: payment.app-dev.roboshopin.site 
+DISPATCH_HOST: dispatch.app-dev.roboshopin.site
+NEXUS_URL: http://34.204.90.91:8081//repository
+group_id: "com/roboshop"
+

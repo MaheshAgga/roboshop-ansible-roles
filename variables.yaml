@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.roboshopin.site # submit your host
+REDIS_HOST: redis.roboshopin.site
+MYSQL_HOST: mysql.roboshopin.site
+RABBITMQ_HOST: rabbitmq.roboshopin.site
+CATALOGUE_HOST: catalogue.roboshopin.site
+USER_HOST: user.roboshopin.site
+CART_HOST: cart.roboshopin.site
+SHIPPING_HOST: shipping.roboshopin.site
+PAYMENT_HOST: payment.roboshopin.site
+DISPATCH_HOST: dispatch.roboshopin.site
